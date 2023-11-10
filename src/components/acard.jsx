@@ -1,5 +1,7 @@
 import React from 'react'
 import Data from './data';
+
+// khud card bnaya hehe
 function Acard() {
   return (
     <div className='flex m-4 text-center'>

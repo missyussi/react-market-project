@@ -17,14 +17,14 @@ description:' Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, de
   },
   {
     id: 4 ,
- username: 'abubakar' ,
+ username: 'nobita' ,
 description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis, delectus',
 },
 {
 id: 5 ,
  username: 'shizuka' ,
 description: ' Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis, delectus',
-}
+},
 
 ];
 export default Data
